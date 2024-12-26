@@ -1,6 +1,4 @@
 # armanbahadir-inp103
-Tabii! Aşağıda belirttiğiniz proje için bir README dosyası örneği hazırladım:
-
 ---
 
 # Titreşim Algılama ve Uyarı Sistemi
